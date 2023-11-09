@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello 👋
+Check out our [totally awesome website](https://www.supersod.com/)
 
 <!--
 
