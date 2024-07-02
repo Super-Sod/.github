@@ -1,13 +1,13 @@
 ---
 name: Weed report
 about: Report a weed or problem with grassroutes
-title: 'BUG: '
-labels: bug
+title: 'WEED: '
+labels: ['weed']
 assignees:
 ---
 
-## Describe the Bug
-A clear and concise description of what the bug is.
+## Describe the Weed
+A clear and concise description of what the weed is.
 
 ## Steps To Reproduce
 1. Go to '...'
