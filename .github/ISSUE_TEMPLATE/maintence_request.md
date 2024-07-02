@@ -1,7 +1,7 @@
 ---
 name: Maintenance Request
 about: Request routine maintenance tasks such as updates, upgrades, or cleanups.
-title: 'MAINTENCE:  '
+title: 'MAINTENANCE :  '
 labels: ['maintenance']
 projects: 'Super-Sod/1'
 assignees: ''
