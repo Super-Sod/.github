@@ -1,11 +1,29 @@
 ---
-name: Maintence request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Maintenance Request
+about: Request routine maintenance tasks such as updates, upgrades, or cleanups.
+title: '[Maintenance] '
+labels: maintenance
+projects: 'super-sod/1'
 assignees: ''
-
 ---
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Summary**
+
+Provide a brief summary of the maintenance task you are requesting.
+
+**Type of Maintenance**
+
+- [ ] Dependency update
+- [ ] System upgrade
+- [ ] Code refactoring
+- [ ] Cleanup
+- [ ] Other (please specify):
+
+**Details**
+
+Describe the maintenance task in detail. Include any specific requirements, steps to be followed, or any other relevant information.
+
+
+**Additional Information**
+
+Add any other context or files that may be necessary for understanding or completing the maintenance task.
