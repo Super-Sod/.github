@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest new functionality
-title: FEATURE: 
+title: 'FEATURE: '
 labels: ['feature']
 assignees: ''
 ---
