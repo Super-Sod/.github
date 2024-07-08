@@ -2,9 +2,10 @@
 name: Feature request
 about: Suggest new functionality
 title: 'FEATURE: '
-labels: ["feature"]
-projects: 'Super-Sod/GrassRoots'
+labels: ['feature']
+projects: 'Super-Sod/1'
 assignees: ''
+
 ---
 
 ## Feature Purpose
