@@ -2,7 +2,8 @@
 name: Feature request
 about: Suggest new functionality
 title: 'FEATURE: '
-labels: ['feature']
+labels: 'feature'
+projects: 'Super-Sod/1'
 assignees: ''
 ---
 
