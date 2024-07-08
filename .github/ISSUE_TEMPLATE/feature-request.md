@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest new functionality
 title: 'FEATURE: '
-labels: ['feature']
-projects: 'GrassRoots'
+labels: ["feature"]
+projects: 'Super-Sod/GrassRoots'
 assignees: ''
 ---
 
