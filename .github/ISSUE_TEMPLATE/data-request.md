@@ -1,7 +1,7 @@
 ---
 name: Data Request
 about: 'This template is when data is being requested. '
-title: 'Data Request: '
+title: '[DATA]: '
 labels: 'data request'
 assignees: ''
 
