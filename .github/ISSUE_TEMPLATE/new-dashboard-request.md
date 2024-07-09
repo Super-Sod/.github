@@ -1,7 +1,7 @@
 ---
 name: New Dashboard Request
 about: 'This template is for all new dashboard request. '
-title: 'New Dashboard: '
+title: '[DASHBOARD]: '
 labels: 'dashboard'
 assignees: ''
 
