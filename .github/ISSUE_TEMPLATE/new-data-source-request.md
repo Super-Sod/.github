@@ -1,7 +1,7 @@
 ---
 name: New Data Source Request
 about: 'This template is for all new data source request. '
-title: 'New Data Source: '
+title: '[DATASOURCE]: '
 labels: 'data source'
 assignees: ''
 
