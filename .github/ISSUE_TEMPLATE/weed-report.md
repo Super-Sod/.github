@@ -10,16 +10,10 @@ assignees:
 A clear and concise description of what the weed is.
 
 ## Steps To Reproduce
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-## Expected Behavior
-A clear and concise description of what you expected to happen.
-
-## Screenshots
-If applicable, add screenshots to help explain your problem.
+If you are able to reproduce the bug enter the steps here.
 
 ## Suggested Actions
 Add possible fixes any other context about the problem here.
+
+## Additional Context
+Any extra info.
